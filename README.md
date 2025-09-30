@@ -23,8 +23,8 @@ All modules can be used **standalone**, but they were designed to also work toge
 
 
 ## 📂 Other modules from Modular Utils
-- [Calculator](https://github.com/PamellaSoto/modular-calculator)
-- []()
+- [🧮 Calculator](https://github.com/PamellaSoto/modular-calculator)
+- [📝 Task List](https://github.com/PamellaSoto/modular-task-list)
 
 
 ## ✅ Checklist
